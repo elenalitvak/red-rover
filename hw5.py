@@ -79,3 +79,12 @@ print(farm_1.__spending)
 # rhino.__color = 'red'
 #
 # print(rhino.category, rhino._name, rhino.__color)
+
+# # setting the age using setter
+# raj.set_age(21)
+#
+# # retrieving age using gettergi
+# print(raj.get_age())
+#
+# print(raj._age)
+
