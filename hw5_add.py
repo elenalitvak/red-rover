@@ -27,7 +27,7 @@
 # # setting the age using setter
 # raj.set_age(21)
 #
-# # retrieving age using getter
+# # retrieving age using gettergi
 # print(raj.get_age())
 #
 # print(raj._age)

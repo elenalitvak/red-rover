@@ -58,4 +58,24 @@ print(farm_1.__spending)
 # farm_1.set_spending = '333'
 # print(farm_1.get__spending)
 
+# class ZooAnimal:
+#     def __init__(self, category, name, color):
+#         self.category = category
+#         self._name = name
+#         self.__color = color
+#
+#     # getter method
+#     def get_name(self):
+#         return self._name
+#
+#     # setter method
+#     def set_name(self, x):
+#         self._name = x
 
+# rhino = ZooAnimal('herbivorous', 'rhino', 'gray')
+#
+# rhino.category = 'predator'
+# rhino._name = 'hippo'
+# rhino.__color = 'red'
+#
+# print(rhino.category, rhino._name, rhino.__color)
