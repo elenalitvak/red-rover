@@ -87,4 +87,3 @@ print(farm_1.__spending)
 # print(raj.get_age())
 #
 # print(raj._age)
-
